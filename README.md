@@ -17,5 +17,3 @@ This project provides a comprehensive analysis and visualization of an insurance
 
 ![Insurance Data Analysis](5265048663133120722_121.jpg)
 
-To replicate the visualizations, run the notebook from top to bottom. You can use the following code to include an image:
-)
