@@ -17,3 +17,33 @@ This project provides a comprehensive analysis and visualization of an insurance
 
 ![Insurance Data Analysis](5265048663133120722_121.jpg)
 
+## Setup and Installation
+
+1. Install the necessary libraries:
+
+pip install pandas matplotlib seaborn
+
+
+2. Run the notebook in Jupyter or JupyterLab to see the full analysis and visualizations.
+
+
+
+## Results
+
+The analysis provides insights into:
+
+The correlation between age, charges, and other factors.
+
+Distribution of smokers and non-smokers across genders.
+
+Age and charges trends.
+
+
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
