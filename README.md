@@ -4,10 +4,10 @@ This project provides a comprehensive analysis and visualization of an insurance
 
 ## Project Structure
 
-1. Library Imports: Importing the necessary libraries, such as Pandas, Matplotlib, and Seaborn.
-2. Data Loading: Loading the insurance dataset for analysis.
-3. Data Cleaning: Handling missing values, removing outliers, and preparing data for visualization.
-4. Exploratory Data Analysis (EDA):
+1. **Library Imports:** Importing the necessary libraries, such as Pandas, Matplotlib, and Seaborn.
+2. **Data Loading:** Loading the insurance dataset for analysis.
+3. **Data Cleaning:** Handling missing values, removing outliers, and preparing data for visualization.
+4. **Exploratory Data Analysis (EDA):**
    - Heatmap: Displays correlation between numerical features.
    - Pie Chart: Visualizes the distribution of categories (e.g., smokers/non-smokers).
    - Bar Chart: Shows counts of smokers based on gender.
